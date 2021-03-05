@@ -1,0 +1,33 @@
+/*
+h1{
+    color: darkblue;
+}
+
+p{
+    text-align: justify;
+    font-style: italic;
+}
+
+ Selector Universal
+*{
+    background-color: darkgreen;
+}
+ selector tag 
+body{
+    color: darkmagenta;
+}
+
+h1{
+    background-color: darkgrey;
+}
+*/
+ selector id
+#judul{
+    color: darkviolet;
+    text-decoration: underline;
+}
+ selector class
+.konten{
+    text-align: justify;
+    background-color: gray;
+}
