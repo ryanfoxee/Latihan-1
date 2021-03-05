@@ -1,0 +1,43 @@
+a.judul{
+    font-size: 50px;
+    color: green;
+}
+
+li a:hover{
+    font-size: 20px;
+    color: red;
+}
+
+li a:active{
+    font-size: 20px;
+    font-style: italic;
+    color: brown;
+}
+
+li a:visited{
+    color: cyan;
+}
+
+ul li.konten{
+    color: darkblue;
+}
+
+ul li.konten:first-child{
+    color: red;
+}
+
+ul li.konten:last-child{
+    color: seagreen;
+}
+
+ul li.konten:nth-child(odd){
+    color: gold;
+}
+
+p:first-of-type{
+    color:green;
+}
+
+p:last-of-type{
+    color: hotpink;
+}

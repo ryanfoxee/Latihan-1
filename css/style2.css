@@ -1,0 +1,7 @@
+body{
+    color:black;
+    background-image: url(../image/nusantara.jpg);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-attachment: fixed;
+}

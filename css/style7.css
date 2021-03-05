@@ -1,0 +1,15 @@
+p.spesifik{
+    color: red;
+}
+
+.spesifik{
+    color: green;
+}
+
+ul.biasa-aja li{
+    color: hotpink;
+}
+
+ul li.spesial{
+    color: blue;
+}
